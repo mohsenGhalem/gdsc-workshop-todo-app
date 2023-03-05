@@ -1,17 +1,21 @@
 # gdsc_workshop_todo_app
 
-A new Flutter project.
+A new todo app Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ - To download the demo project run the following commands in your terminal
+ ```
+ git clone https://github.com/mohsenGhalem/gdsc-workshop-todo-app/
+ ```
+ - Or downloaded as ZIP file in **Code section > Download ZIP**
+ 
+ - After Downloading Or cloning the demo project 
+ 
+ **Now Open it with you IDE and you're ready to work with the instructor in the workshop**
+ 
+ 
+ 
+ >Note : The final project will be launched in **final** branch
+ 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# gdsc-workshop-todo-app
